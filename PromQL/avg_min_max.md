@@ -1,0 +1,5 @@
+min(prometheus_http_requests_total)
+
+max(prometheus_http_requests_total)
+
+avg(prometheus_http_requests_total)
